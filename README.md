@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m @Brunovncs
+#### 👋 Hi, I’m Bruno Vinicius!
 #### 👀 I’m interested in technology, blockchain stuff, metaverse and descentralized economy
 #### 🌱 I’m currently learning Science of Computation
 #### 💞️ I’m looking to collaborate on my own projects for now but in the future with others
