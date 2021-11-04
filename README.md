@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brunovncs
 - 👀 I’m interested in technology, blockchain stuff, metaverse and descentralized economy
-- 🌱 I’m currently learning Science of Computation bachelor
+- 🌱 I’m currently learning Science of Computation
 - 💞️ I’m looking to collaborate on my own projects for now but in the future with others
 - 📫 How to reach me: brunoviniciusrp@gmail.com
 
