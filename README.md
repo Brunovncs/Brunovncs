@@ -1,8 +1,7 @@
 #### 👋 Hi, I’m Bruno Vinicius!
-#### 👀 I’m interested in technology, blockchain stuff, metaverse and descentralized economy
-#### 🌱 I’m currently learning Science of Computation
-#### 💞️ I’m looking to collaborate on my own projects for now but in the future with others
-#### 📫 How to reach me: brunoviniciusrp@gmail.com
+#### 👀 I’m interested in technology, blockchain and metaverse news!
+#### 🌱 I’m currently a Computer Science student!
+#### 📫 How to reach me: bvv.jesus@unesp.br
 
 <!---
 Brunovncs/Brunovncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
