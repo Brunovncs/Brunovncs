@@ -1,5 +1,5 @@
 #### 👋 Hi, I’m Bruno Vinicius!
-#### 👀 I’m interested in technology, blockchain and metaverse news!
+#### 👀 I’m interested in technology, coding and metaverse!
 #### 🌱 I’m currently a Computer Science student!
 #### 📫 How to reach me: bvv.jesus@unesp.br
 
