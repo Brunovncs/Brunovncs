@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m Bruno Vinicius.
 #### 👀 Computer Science student
-#### 🌱 Currently working on the development of the iSPD project, an iconic simulator of parallel and distributed systems.
+#### 🌱 Colaborator of iSPD project, an iconic simulator of parallel and distributed systems.
 #### 📫 How to reach me: bvv.jesus@unesp.br
 
 <!---
