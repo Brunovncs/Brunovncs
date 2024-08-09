@@ -3,7 +3,7 @@
 #### 🌱 Colaborator of iSPD project, an iconic simulator of parallel and distributed systems.
 #### 📫 How to reach me: bvv.jesus@unesp.br
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunovncs&show_icons=true&theme=react&show_icons=true&show_icons=true
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunovncs&show_icons=true&theme=react&show_icons=true&show_icons=true)
 
 <!---
 Brunovncs/Brunovncs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
