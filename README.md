@@ -3,7 +3,7 @@
 #### 🌱 Colaborator of iSPD project, an iconic simulator of parallel and distributed systems.
 #### 💬 Intern at Hablla, a conversational marketing with CRM automation company
 #### 📫 How to reach me: bvv.jesus@unesp.br
-#### 🌐 My portfolio website: brunovinicius.dev.br
+#### 🌐 My portfolio website: [brunovinicius.dev.br](https://brunovinicius.dev.br/)
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunovncs&show_icons=true&theme=react&show_icons=true&show_icons=true)
 
