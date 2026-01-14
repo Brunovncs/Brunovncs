@@ -69,8 +69,8 @@ Também desenvolvi projetos envolvendo **Inteligência Artificial**, com experi�
 
 <div align="center">
   <h3>📊 Estatísticas do GitHub</h3>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&langs_count=10&theme=ayu-mirage"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brunovncs&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunovncs&layout=compact&langs_count=10&theme=ayu-mirage"/>
 </div>
 
 ---
