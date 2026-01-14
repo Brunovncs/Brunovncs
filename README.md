@@ -36,8 +36,6 @@ Tenho grande interesse em **programação orientada a desempenho**, computação
 
 Também desenvolvi projetos envolvendo **Inteligência Artificial**, com experiência em **TensorFlow**, **PyTorch** e técnicas de **Explainable AI (XAI)** para construção e interpretação de modelos de aprendizado de máquina.
 
-Sempre estou estudando algo novo — acredito que **engenharia de software é um processo contínuo de aprendizado e refinamento**.
-
 ---
 
 <h3 align="center">Tecnologias que utilizo no dia a dia</h3>
